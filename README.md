@@ -3,6 +3,7 @@ Personalized restaurant booking system using html, css, Js and php
 
 ### Tech stack
 **Frontend**-Html, CSS, Vanilla Javascript
+
 **Backend**-PHP
 
 ### Database
@@ -14,7 +15,7 @@ Xampp
 - User
 - Booking
 
-### Functionalities-
+### Functionalities
 - Login
 - Register
 - Book a table
